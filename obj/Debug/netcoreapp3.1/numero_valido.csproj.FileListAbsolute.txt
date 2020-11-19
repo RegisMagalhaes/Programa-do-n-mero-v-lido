@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\obj\Debug\netcoreapp3.1\numero_valido.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\obj\Debug\netcoreapp3.1\numero_valido.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\obj\Debug\netcoreapp3.1\numero_valido.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\obj\Debug\netcoreapp3.1\numero_valido.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\bin\Debug\netcoreapp3.1\numero_valido.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\bin\Debug\netcoreapp3.1\numero_valido.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\bin\Debug\netcoreapp3.1\numero_valido.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\bin\Debug\netcoreapp3.1\numero_valido.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\bin\Debug\netcoreapp3.1\numero_valido.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\bin\Debug\netcoreapp3.1\numero_valido.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\obj\Debug\netcoreapp3.1\numero_valido.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\obj\Debug\netcoreapp3.1\numero_valido.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\numero_valido\obj\Debug\netcoreapp3.1\numero_valido.genruntimeconfig.cache
